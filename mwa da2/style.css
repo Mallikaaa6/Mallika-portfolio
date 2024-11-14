@@ -1,0 +1,63 @@
+body {
+    background-color:  #AA98A9;
+  }
+
+  h2{
+    font-size: 50px;
+  }
+  
+  /*
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:  #E6E6FA;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+    display: inline-block;
+    margin-bottom: 0px;
+    font-weight: bold;
+  }
+  
+  input, select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #fee {
+    font-weight: bold;
+  }
+  
+  #confirmationMessage {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #e0ffe0;
+    border: 1px solid #00cc00;
+    text-align: center;
+  }
+      
+  */
